@@ -1,6 +1,7 @@
 # Awesome Vprod
 Slightly opinionated awesome list of virtual production knowledge and resources
 
+###### tags: `m3` `vprod`
 
 [![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3org)

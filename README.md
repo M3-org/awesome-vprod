@@ -1,13 +1,13 @@
 # Awesome Vprod
 
-Slightly opinionated awesome list of virtual production knowledge and resources
-
-###### tags: `m3` `vprod`
-
 [![hackmd-github-sync-badge](https://hackmd.io/pjH4ieqeRLy2qettG6MjdQ/badge)](https://hackmd.io/pjH4ieqeRLy2qettG6MjdQ)
 [![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/m3org)](https://twitter.com/m3org)
+
+###### tags: `m3` `vprod`
+
+Slightly opinionated awesome list of virtual production knowledge and resources
 
 
 
@@ -19,9 +19,6 @@ Slightly opinionated awesome list of virtual production knowledge and resources
 
 ![](https://i.imgur.com/phfCYOu.png)
 
-
-- https://substance3d.adobe.com/magazine/digital-backlots/ - Useful information about what makes a successful digital backlot
-- https://sketchfab.com/ - basically a digital backlot, no LOD unless packed in by author
 
 
 
@@ -37,6 +34,11 @@ Slightly opinionated awesome list of virtual production knowledge and resources
 - https://github.com/GuismoW/awesome-unity-virtual-production - Tools for Unity Virtual Production
 - https://github.com/ahrenm/VPToolKit - Extremely alpha Virtual Production ToolKit for UE4
 
+**3D Assets**
+
+- https://substance3d.adobe.com/magazine/digital-backlots/ - Useful information about what makes a successful digital backlot
+- https://sketchfab.com/ - basically a digital backlot, no LOD unless packed in by author
+
 
 ---
 
@@ -47,14 +49,28 @@ Slightly opinionated awesome list of virtual production knowledge and resources
 - https://www.youtube.com/watch?v=60gQpY8tbHY - What Goes into Building an LED Virtual Production Volume
 - https://github.com/gm3/vTuber-SDK3 - All-in-one virtual production studio for VRChat SDK3
 - https://github.com/PiMaker/ltcgi - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat
-- https://github.com/0beqz/screen-space-reflections Screen Space Reflections in three.js
+- https://github.com/0beqz/screen-space-reflections - Screen Space Reflections in three.js
 
 ---
 
 ## Animation
 
-- https://www.mixamo.com/
+- https://www.mixamo.com/ - Popular free platform to auto-rig and animate characters
+    - https://unrealengine.com/marketplace/en-US/product/mixamo-animation-retargeting
+    - 
 - https://www.nvidia.com/en-us/omniverse/apps/audio2face/ - generate expressive facial animation from just an audio source
+- https://github.com/cgvirus/Simple-Retarget-Tool-Blender - A simple armature retargeting tool for Blender
+
+**Shadermotion**
+
+- https://gitlab.com/lox9973/ShaderMotion
+- https://lox9973.com/ShaderMotion/player-gltf.html
+- https://github.com/guillefix/shadermotion-bvh-utils - 
+- https://gist.github.com/CheapDevotion/85b8d70aa74afa7f4c135c1c971530ef - unity tool that converts bvh to fbx
+
+**Udonmotion**
+
+- https://gitlab.com/lox9973/UdonMotion
 
 **Notes**
 - https://hackmd.io/@xr/mocap-interop

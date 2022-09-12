@@ -26,7 +26,7 @@ Slightly opinionated awesome list of virtual production knowledge and resources
 
 ## Resources
 
-
+- https://github.com/gm3/vTuber-SDK3 - vTuber Studio for VRC SDK3 (Udon): cameras / lights / LTCGI shader / avatar switcher
 - https://github.com/MiloMindbender/UE4VirtualProduction - An example Unreal Engine Virtual Production Project
 - https://github.com/aka-anoop/virtual-production-resources - Collection of Tools and Workflows related to Virtual Production
 - https://github.com/otdavies/UnityChromakey - A simple, yet powerful chromakey / greenscreen solution for Unity
@@ -37,12 +37,15 @@ Slightly opinionated awesome list of virtual production knowledge and resources
 **3D Assets**
 
 - https://substance3d.adobe.com/magazine/digital-backlots/ - Useful information about what makes a successful digital backlot
-- https://sketchfab.com/ - basically a digital backlot, no LOD unless packed in by author
-
+- https://sketchfab.com/ - basically a digital backlot, many [importer](https://sketchfab.com/importers) / [exporter](https://sketchfab.com/exporters) plugins available
+- https://thebasemesh.com - 600+ CC0 licensed 3D assets
 
 ---
 
 ## Video Walls
+
+![image](https://user-images.githubusercontent.com/32600939/189693826-419a2646-5ad5-4bbb-a05a-f04452e3cf83.png)
+
 
 - https://www.fxguide.com/fxfeatured/art-of-led-wall-virtual-production-part-one-lessons-from-the-mandalorian/ - LED walls part 1
 - https://www.fxguide.com/fxfeatured/art-of-led-wall-virtual-production-sets-part-two-how-you-make-one/ - LED walls part 2
@@ -51,34 +54,48 @@ Slightly opinionated awesome list of virtual production knowledge and resources
 - https://github.com/PiMaker/ltcgi - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat
 - https://github.com/0beqz/screen-space-reflections - Screen Space Reflections in three.js
 
+![image](https://user-images.githubusercontent.com/32600939/189693315-6a7914e7-6ed5-4bed-9919-1bf4e3c790d8.png)
+https://partnerhelp.netflixstudios.com/hc/en-us/articles/360061949514-On-Set-Infrastructure
+
+
 ---
 
 ## Animation
 
 - https://www.mixamo.com/ - Popular free platform to auto-rig and animate characters
     - https://unrealengine.com/marketplace/en-US/product/mixamo-animation-retargeting
-    - 
 - https://www.nvidia.com/en-us/omniverse/apps/audio2face/ - generate expressive facial animation from just an audio source
 - https://github.com/cgvirus/Simple-Retarget-Tool-Blender - A simple armature retargeting tool for Blender
+- https://hackmd.io/@xr/mocap-interop - Animation interop notes and projects from xrdevlog
 
 **Shadermotion**
 
-- https://gitlab.com/lox9973/ShaderMotion
-- https://lox9973.com/ShaderMotion/player-gltf.html
-- https://github.com/guillefix/shadermotion-bvh-utils - 
+- https://gitlab.com/lox9973/ShaderMotion - A shader-based motion-to-video codec for humanoid avatar
+  - https://lox9973.com/ShaderMotion/player-gltf.html
+- https://github.com/guillefix/shadermotion-bvh-utils - convert shadermotion .mp4 video to .bvh files
 - https://gist.github.com/CheapDevotion/85b8d70aa74afa7f4c135c1c971530ef - unity tool that converts bvh to fbx
 
 **Udonmotion**
 
-- https://gitlab.com/lox9973/UdonMotion
-
-**Notes**
-- https://hackmd.io/@xr/mocap-interop
+- https://gitlab.com/lox9973/UdonMotion - A motion tracking system for a VRChat world written in udonsharp
 
 
 ---
 
+## Articles
+
+- [How and Where to Learn Virtual Production Techniques](https://blog.frame.io/2022/07/14/how-and-where-to-learn-virtual-production-techniques/)
+- [Virtual Production Essentials: 10 Things to Know Before You Start Shooting](https://blog.frame.io/2021/09/07/10-things-to-know-about-virtual-production/)
+- [Key Virtual Production Techniques That Editors Need to Know](https://blog.frame.io/2022/05/12/key-virtual-production-techniques-that-editors-need-to-know/)
+
+---
+
 ## Notes
+
+**Videos**
+- [Real-Time Conference On-Demand](https://realtimeconference.com/videos/)
+- 
+
 
 - https://www.foundry.com/insights/real-time/top-three-ways-near-real-time-advancing-workflows
 - https://github.com/FilmakademieRnd/VPET - tablet stuff

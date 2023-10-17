@@ -2,7 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/pjH4ieqeRLy2qettG6MjdQ/badge)](https://hackmd.io/pjH4ieqeRLy2qettG6MjdQ)
 [![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3org)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3-org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/m3org)](https://twitter.com/m3org)
 
 ###### tags: `m3` `vprod`
